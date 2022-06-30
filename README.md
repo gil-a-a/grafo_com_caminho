@@ -1,1 +1,1 @@
-# grafo_ineficiente
+# grafo_com_caminho
